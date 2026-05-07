@@ -8,6 +8,10 @@ A reading guide that maps the concepts of modern LLM inference engines onto the
 > time of writing. If the upstream repo has moved on, the *concepts* still map;
 > the line numbers may not.
 
+**Companion page:** [Speculative decoding](./speculative-decoding.md) — the
+single biggest inference-acceleration trick layered on top of everything
+below. Read that after §10.
+
 ---
 
 ## 1. What an inference engine actually does
